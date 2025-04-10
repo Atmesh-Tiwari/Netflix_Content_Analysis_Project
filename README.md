@@ -30,7 +30,7 @@ Conduct an exploratory data analysis (EDA) using the provided Netflix dataset. Y
 - Highlight any data limitations or improvement suggestions
 
 ## Dataset 
-![dataset link](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+![Dataset_link](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## Schema
 
