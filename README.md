@@ -169,7 +169,7 @@ GROUP BY 1;
 10. Find each year and the average numbers of content release in India on Netflix.
 Return top 5 years with highest avg content release!
 Objective: Calculate and rank years by the average number of content releases by India.
-```
+```sql
 SELECT 
     country,
     release_year,
